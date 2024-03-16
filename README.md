@@ -34,13 +34,10 @@ python main.py
 The dataset includes labeled images of military aircraft with bounding box annotations. Detailed information can be found on Kaggle: https://www.kaggle.com/datasets/nicolassilvanash/milair-dataset/data
 
 ## Model Architecture
-EfficientNet B4, pretrained on ImageNet and fine-tuned for military aircraft identification, serves as our model architecture.
+EfficientNet B4, pre-trained on ImageNet and fine-tuned for military aircraft identification, serves as our model architecture.
 
 ## Performance Evaluation
 The model's performance is evaluated based on precision, recall, and F1-score metrics.
-
-## Contributing
-Contributions to AMAIS are welcome! 
 
 ## License
 This project is released under the MIT License. 
